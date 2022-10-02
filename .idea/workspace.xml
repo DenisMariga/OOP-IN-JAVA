@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a9ecb4-6e00-42ec-a8ef-c7c03e4237ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MethodOverriding/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodOverriding/MethodOverridingMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodOverriding/MountainBike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Abstraction/TryAbstracting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Abstraction/TryAbstracting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Interface/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Interface/Bike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MethodOverloading/TryMethodOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MethodOverloading_Polymo/TryMethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodRecursion/ComplexFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MethodRecursion/TryRecursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +44,26 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\OOP-IN-JAVA\src\MethodOverriding" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TryRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MethodRecursion.TryRecursion" />
+      <module name="OOP-IN-JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MethodRecursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TryRecursion" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
