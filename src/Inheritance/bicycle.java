@@ -11,9 +11,8 @@ public class bicycle {
     public void setGear(int gear) {
         Gear = gear;
     }
-    public Integer addBreaks(int decrement){
+    public void addBreaks(int decrement){
         Speed-=decrement;
-        return decrement;
     }
     public void setSpeed(int increase){
         Speed+=increase;

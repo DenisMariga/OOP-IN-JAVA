@@ -1,6 +1,6 @@
 package Interface;
 
-interface Bike {
+interface qaBike {
     void applyBrakes(int decrement);
     void speedUp(int increment);
 }

@@ -1,4 +1,4 @@
-package MethodOverloading;
+package MethodOverloading_Polymo;
 
 public class TryMethodOverloading {
     public int multiply(int x, int y){
