@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a9ecb4-6e00-42ec-a8ef-c7c03e4237ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MethodRecursion/ComplexFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MethodRecursion/TryRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exception/ExceptionWriting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/func/trye.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
